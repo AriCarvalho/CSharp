@@ -1,5 +1,0 @@
-﻿nugget package Mono.Options
-http://patorjk.com/software/taag/#p=display&f=Big&t=ted%0A
-
-
-program -h --help --r123asd
