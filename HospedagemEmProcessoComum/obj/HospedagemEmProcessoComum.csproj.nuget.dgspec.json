@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Local\\CSharpWorkspace\\CSharp\\HospedagemEmProcessoComum\\HospedagemEmProcessoComum.csproj": {}
+  },
+  "projects": {
+    "F:\\Local\\CSharpWorkspace\\CSharp\\HospedagemEmProcessoComum\\HospedagemEmProcessoComum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Local\\CSharpWorkspace\\CSharp\\HospedagemEmProcessoComum\\HospedagemEmProcessoComum.csproj",
+        "projectName": "HospedagemEmProcessoComum",
+        "projectPath": "F:\\Local\\CSharpWorkspace\\CSharp\\HospedagemEmProcessoComum\\HospedagemEmProcessoComum.csproj",
+        "packagesPath": "C:\\Users\\ari-c\\.nuget\\packages\\",
+        "outputPath": "F:\\Local\\CSharpWorkspace\\CSharp\\HospedagemEmProcessoComum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ari-c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
