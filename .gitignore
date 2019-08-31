@@ -1,0 +1,6 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/InterfaceHomemMaquinaPorLinhaDeComando/.vs/InterfaceHomemMaquinaPorLinhaDeComando/v16/Server/sqlite3
+/InterfaceHomemMaquinaPorLinhaDeComando/.vs/InterfaceHomemMaquinaPorLinhaDeComando/v16
