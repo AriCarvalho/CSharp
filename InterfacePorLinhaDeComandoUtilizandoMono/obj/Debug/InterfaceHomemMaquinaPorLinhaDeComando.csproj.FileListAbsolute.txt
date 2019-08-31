@@ -1,0 +1,8 @@
+F:\Local\CSharpWorkspace\CSharp\InterfaceHomemMaquinaPorLinhaDeComando\bin\Debug\CSharpCLI.exe.config
+F:\Local\CSharpWorkspace\CSharp\InterfaceHomemMaquinaPorLinhaDeComando\bin\Debug\CSharpCLI.exe
+F:\Local\CSharpWorkspace\CSharp\InterfaceHomemMaquinaPorLinhaDeComando\bin\Debug\CSharpCLI.pdb
+F:\Local\CSharpWorkspace\CSharp\InterfaceHomemMaquinaPorLinhaDeComando\bin\Debug\Mono.Options.dll
+F:\Local\CSharpWorkspace\CSharp\InterfaceHomemMaquinaPorLinhaDeComando\obj\Debug\InterfaceHomemMaquinaPorLinhaDeComando.csproj.CoreCompileInputs.cache
+F:\Local\CSharpWorkspace\CSharp\InterfaceHomemMaquinaPorLinhaDeComando\obj\Debug\InterfaceHomemMaquinaPorLinhaDeComando.csproj.CopyComplete
+F:\Local\CSharpWorkspace\CSharp\InterfaceHomemMaquinaPorLinhaDeComando\obj\Debug\CSharpCLI.exe
+F:\Local\CSharpWorkspace\CSharp\InterfaceHomemMaquinaPorLinhaDeComando\obj\Debug\CSharpCLI.pdb
