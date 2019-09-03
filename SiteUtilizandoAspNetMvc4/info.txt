@@ -1,0 +1,3 @@
+﻿Banco de dados: LocalDB
+ORM: EntityFamework
+IOC: StructureMap

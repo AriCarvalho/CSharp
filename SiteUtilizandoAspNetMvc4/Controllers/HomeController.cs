@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SiteUtilizandoAspNetMvc4.Repository;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,8 +9,17 @@ namespace SiteUtilizandoAspNetMvc4.Controllers
 {
     public class HomeController : Controller
     {
+        private IDBSource _db;
+        public HomeController(IDBSource db):base()
+        {
+            _db = db;
+        }
+
         public ActionResult Index()
         {
+
+            ViewBag.AuthorName = _db.Author.FirstOrDefault()?.Name;
+
             return View();
         }
 
