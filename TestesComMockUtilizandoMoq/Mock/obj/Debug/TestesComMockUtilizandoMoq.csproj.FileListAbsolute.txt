@@ -1,0 +1,13 @@
+F:\Local\CSharpWorkspace\Mock\Mock\bin\Debug\Mock.dll
+F:\Local\CSharpWorkspace\Mock\Mock\bin\Debug\Mock.pdb
+F:\Local\CSharpWorkspace\Mock\Mock\bin\Debug\Castle.Core.dll
+F:\Local\CSharpWorkspace\Mock\Mock\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Local\CSharpWorkspace\Mock\Mock\bin\Debug\Moq.dll
+F:\Local\CSharpWorkspace\Mock\Mock\bin\Debug\Moq.pdb
+F:\Local\CSharpWorkspace\Mock\Mock\bin\Debug\Moq.xml
+F:\Local\CSharpWorkspace\Mock\Mock\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Local\CSharpWorkspace\Mock\Mock\obj\Debug\TestesComMockUtilizandoMoq.csprojAssemblyReference.cache
+F:\Local\CSharpWorkspace\Mock\Mock\obj\Debug\TestesComMockUtilizandoMoq.csproj.CoreCompileInputs.cache
+F:\Local\CSharpWorkspace\Mock\Mock\obj\Debug\TestesComMockUtilizandoMoq.csproj.CopyComplete
+F:\Local\CSharpWorkspace\Mock\Mock\obj\Debug\Mock.dll
+F:\Local\CSharpWorkspace\Mock\Mock\obj\Debug\Mock.pdb

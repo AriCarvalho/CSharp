@@ -1,0 +1,15 @@
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\bin\Debug\netcoreapp2.1\TestesDeAceitacaoUtilizandoSpecFlow.deps.json
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\bin\Debug\netcoreapp2.1\TestesDeAceitacaoUtilizandoSpecFlow.runtimeconfig.json
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\bin\Debug\netcoreapp2.1\TestesDeAceitacaoUtilizandoSpecFlow.runtimeconfig.dev.json
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\bin\Debug\netcoreapp2.1\TestesDeAceitacaoUtilizandoSpecFlow.dll
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\bin\Debug\netcoreapp2.1\TestesDeAceitacaoUtilizandoSpecFlow.pdb
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\obj\Debug\netcoreapp2.1\TestesDeAceitacaoUtilizandoSpecFlow.csprojAssemblyReference.cache
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\obj\Debug\netcoreapp2.1\TestesDeAceitacaoUtilizandoSpecFlow.csproj.CoreCompileInputs.cache
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\obj\Debug\netcoreapp2.1\TestesDeAceitacaoUtilizandoSpecFlow.AssemblyInfoInputs.cache
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\obj\Debug\netcoreapp2.1\TestesDeAceitacaoUtilizandoSpecFlow.AssemblyInfo.cs
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\obj\Debug\netcoreapp2.1\TestesDeAceitacaoUtilizandoSpecFlow.dll
+F:\Local\CSharpWorkspace\TestesDeAceitacaoUtilizandoSpecFlow\obj\Debug\netcoreapp2.1\TestesDeAceitacaoUtilizandoSpecFlow.pdb

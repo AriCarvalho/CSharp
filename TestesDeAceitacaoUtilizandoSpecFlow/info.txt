@@ -1,0 +1,9 @@
+﻿Extensão para visual studio:
+	SpecFlow
+
+Pacotes nuget:
+	SpecFlow
+	SpecFlow.Tools.MsBuild.Generation
+	SpecRun.SpecFlow
+
+https://specflow.org/getting-started/
