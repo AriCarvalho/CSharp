@@ -1,0 +1,3 @@
+﻿Nome do padrão: Repository
+Problema: A lógica de acesso aos dados não pode ficar espalhada pela aplicação.
+Solução: Criar classes repositório que encapsulam a lógica de acesso aos dados.

@@ -1,0 +1,3 @@
+﻿Nome do padrão: Iterator
+Problema: Executar operação de navegação em coleções de objetos de diversos tipos não relacionados.
+Solução: Criar um cursos(iterator) que gerencie o posicionamento na coleção.

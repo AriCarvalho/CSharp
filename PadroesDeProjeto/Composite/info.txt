@@ -1,0 +1,3 @@
+﻿Nome do padrão: Composite Pattern
+Problema: Criar hierarquias de objetos e executar operações sobre todos os nós pode requerer muitos tratamentos especificos.
+Solução: Criar cada nó implementando uma interface e criar um classe grupo que aja uniformemente como um único nó.

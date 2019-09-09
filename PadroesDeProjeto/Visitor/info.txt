@@ -1,0 +1,3 @@
+﻿Nome do padrão: Visitor
+Problema: Executar uma operação em cada objeto, mesmo que ela varie um pouco.
+Solução: Criar uma classe que passe por todos os objetos indiferente do tipo e realiza a operação relativa em cada um.

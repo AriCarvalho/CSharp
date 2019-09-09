@@ -1,0 +1,3 @@
+﻿Nome do padrão: Unit Of Work
+Problema: Diversas alterações nos dados estão relacionadas e devem ser tratadas como uma unidade.
+Solução: Concatenar as alterações e criar uma transação.

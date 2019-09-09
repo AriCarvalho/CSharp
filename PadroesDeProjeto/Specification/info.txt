@@ -1,0 +1,3 @@
+﻿Nome do padrão: Specification
+Problema: As regras de filtragem de coleções acumulam-se em um único local.
+Solução: Criar uma classe apenas para definir a condição lógica.

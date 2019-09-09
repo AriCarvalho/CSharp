@@ -1,0 +1,3 @@
+﻿Nome do padrão: Façade
+Problema: Existem muitos métodos e funções, mas somente parte será utilizada e de forma mais simples.
+Solução: Definir uma interface com novos métodos que realmente serão utilizados.

@@ -1,0 +1,3 @@
+﻿Nome do padrão: Bridge Pattern
+Problema: Os dados variam o tipo e a forma de manipular todas as variantes pode mudar.
+Solução: Desacoplar a abstração da implementação tanto dos dados como dos procedimentos para que eles possam variar independentemente.

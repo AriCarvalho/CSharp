@@ -1,0 +1,8 @@
+﻿Nome do padrão: Model View ViewModel
+Problema: Separar a lógica de apresentação e os dados em aplicações WPF.
+Solução: Criar uma classe ViewModel que carrega a lógica de apresentação e registar o modelo nela.
+
+
+Model implementa INotifyPropertyChanged e IDataErrorInfo
+ViewModel implementa INotifyPropertyChanged
+View deve possuir DataContext={StaticResource ViewModel} e demais bindings.

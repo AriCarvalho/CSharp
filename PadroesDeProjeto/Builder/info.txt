@@ -1,0 +1,3 @@
+﻿Nome do padrão: Builder Pattern
+Problema: A criação de um objeto é complexa e cheia de passos e parametros.
+Solução: Dividir em passos ordenados e determinar que os construtores sigam os passos. A cada passo os construtores podem ter uma variação de configurações diferente dos demais.

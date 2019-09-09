@@ -1,0 +1,3 @@
+﻿Nome do padrão: Service Locator
+Problema: Delegar a implementação de uma funcionalidade para outra aplicação ou biblioteca, sem diretamente depender dela.
+Solução: Definir as operações em termos de uma interface, implementá-la externamente ao executável e configurar o tipo concreto em algum arquivo de configuração.

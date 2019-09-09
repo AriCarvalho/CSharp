@@ -1,0 +1,3 @@
+﻿Nome do padrão: Model View Presenter
+Problema: Separar a lógica de apresentação dos dados das demais camadas.
+Solução: Criar um modelo(modelo) com os dados, uma tela(view) e colocar um componente somente para a lógica de apresentação(presenter).

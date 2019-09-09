@@ -1,0 +1,3 @@
+﻿Nome do padrão: Interpreter
+Problema: Um cenário possui uma linguagem específica e o processamento pode ser complexo.
+Solução: Criar uma representação da gramática da linguagem e regras de interpretação.

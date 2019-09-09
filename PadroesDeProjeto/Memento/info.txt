@@ -1,0 +1,3 @@
+﻿Nome do padrão: Memento
+Problema: Conseguir restaurar os objetos da aplicação após guarda-los ou após finalizar a execução.
+Solução: Criar objetos de dados(memento) que são guardados conforme a aplicação é executada. Uma pilha de estados pode ser utilizada para registar os estados.

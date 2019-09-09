@@ -1,0 +1,3 @@
+﻿Nome do padrão: Prototype
+Problema: Criar um objeto é custoso.
+Solução: Criar um protótipo e duplicá-lo quando necessário.

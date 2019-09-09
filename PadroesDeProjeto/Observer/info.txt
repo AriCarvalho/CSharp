@@ -1,0 +1,3 @@
+﻿Nome do padrão: Observer
+Problema: Saber quando ocorreram atualizações em um objeto.
+Solução: Criar classes observadoras, essas classes são registradas para serem avisadas quando o evento ocorrer.

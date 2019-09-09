@@ -1,0 +1,3 @@
+﻿Nome do padrão: Rules
+Problema: As regras de negócio de um sistema mudam muito.
+Solução: Criar um objeto (Rule) para cada grupo de regras relacionadas.

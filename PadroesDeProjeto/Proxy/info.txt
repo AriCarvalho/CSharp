@@ -1,0 +1,3 @@
+﻿Nome do padrão: Proxy
+Problema: Controlar o acesso ao objeto por diversos motivos(segurança, velocidade).
+Solução: Criar uma classe proxy que implementa a mesma interface da classe original, mas adiciona as funcionalidades desejadas como controle de acesso ou cache de dados.

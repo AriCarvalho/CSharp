@@ -1,0 +1,3 @@
+﻿Nome do padrão: Singleton
+Problema: Impedir que a aplicação crie multiplas instâncias de um objeto.
+Solução: Ocultar o construtor e fornecer o objeto através de um método estático.

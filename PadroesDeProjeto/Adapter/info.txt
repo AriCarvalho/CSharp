@@ -1,0 +1,3 @@
+﻿Nome do padrão: Adapter Pattern
+Problema: Uma classe que seria útil para sua aplicação não implementa a interface desejada e não pode ser alterada. O cliente também não pode ser alterado.
+Solução: Converter a interface da classe em outra interface que os clientes esperam.

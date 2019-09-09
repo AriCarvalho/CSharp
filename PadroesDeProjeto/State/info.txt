@@ -1,0 +1,3 @@
+﻿Nome do padrão: State
+Problema: Alterar o comportamento do objeto dependendo do seu estado.
+Solução: Definir uma interface que componha o objeto e criar as ações diferentes para cada estado em nas classes que implemente a interface.

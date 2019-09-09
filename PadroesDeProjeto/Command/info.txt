@@ -1,0 +1,3 @@
+﻿Nome do padrão: Command Pattern
+Problema: Todas as ações que o programa pode fazer estão reunidas em um unico local e é difícil diferenciar cada ação e separar contextos.
+Solução: Criar comandos que isolem seu próprio contexto e apresentem uma interface com um método unico sem parâmetros.

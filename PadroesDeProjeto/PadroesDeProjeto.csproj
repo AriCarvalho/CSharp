@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D6961F96-0DED-46D2-BB3B-5F98834DCB49}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>PadroesDeProjeto</RootNamespace>
+    <AssemblyName>PadroesDeProjeto</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adapter\ClasseImutavel.cs" />
+    <Compile Include="Adapter\Adapter.cs" />
+    <Compile Include="Adapter\ClasseCliente.cs" />
+    <Compile Include="Adapter\IInterface.cs" />
+    <Compile Include="Bridge\IRelatorio.cs" />
+    <Compile Include="Bridge\Livro.cs" />
+    <Compile Include="Bridge\TruncadoBridgeRelatorio.cs" />
+    <Compile Include="Bridge\NormalBridgeRelatorio.cs" />
+    <Compile Include="Bridge\RelatorioGeral.cs" />
+    <Compile Include="Bridge\Casa.cs" />
+    <Compile Include="Bridge\IBridgeRelatorio.cs" />
+    <Compile Include="Builder\BuilderTipoB.cs" />
+    <Compile Include="Builder\BuilderTipoC .cs" />
+    <Compile Include="Builder\BuilderTipoA.cs" />
+    <Compile Include="Builder\IBuilder.cs" />
+    <Compile Include="Builder\MakerObjetoComplexo.cs" />
+    <Compile Include="Builder\ObjetoComplexo.cs" />
+    <Compile Include="ChainOfResponsability\Chain.cs" />
+    <Compile Include="ChainOfResponsability\IProcesso.cs" />
+    <Compile Include="ChainOfResponsability\ProcessoA.cs" />
+    <Compile Include="ChainOfResponsability\ProcessoC.cs" />
+    <Compile Include="ChainOfResponsability\ProcessoB.cs" />
+    <Compile Include="ChainOfResponsability\Resultado.cs" />
+    <Compile Include="ChainOfResponsability\Requisicao.cs" />
+    <Compile Include="Command\ComandoB .cs" />
+    <Compile Include="Command\ComandoA.cs" />
+    <Compile Include="Command\IComando.cs" />
+    <Compile Include="Command\Programa.cs" />
+    <Compile Include="Composite\INo.cs" />
+    <Compile Include="Composite\NoFolha.cs" />
+    <Compile Include="Composite\NoGrupo.cs" />
+    <Compile Include="Composite\Programa.cs" />
+    <Compile Include="Decorator\Decorador.cs" />
+    <Compile Include="Decorator\IClasse.cs" />
+    <Compile Include="Decorator\ClasseAntiga.cs" />
+    <Compile Include="Decorator\Programa.cs" />
+    <Compile Include="EventAggregator\EventAggregator.cs" />
+    <Compile Include="EventAggregator\IReceiver.cs" />
+    <Compile Include="EventAggregator\Programa.cs" />
+    <Compile Include="EventAggregator\Receiver.cs" />
+    <Compile Include="EventAggregator\Sender.cs" />
+    <Compile Include="EventAggregator\SimpleEvent.cs" />
+    <Compile Include="Facade\ApiComplexa.cs" />
+    <Compile Include="Facade\Facade.cs" />
+    <Compile Include="Factory\ClasseB .cs" />
+    <Compile Include="Factory\ClasseA.cs" />
+    <Compile Include="Factory\Factory.cs" />
+    <Compile Include="Factory\IClasse.cs" />
+    <Compile Include="Factory\Programa.cs" />
+    <Compile Include="Flyweight\FlyweightFactory.cs" />
+    <Compile Include="Flyweight\IClasse.cs" />
+    <Compile Include="Flyweight\ObjetoFlyweight.cs" />
+    <Compile Include="Flyweight\ObjetoGrande.cs" />
+    <Compile Include="Interpreter\TesteBase.cs" />
+    <Compile Include="Interpreter\TesteA.cs" />
+    <Compile Include="Iterator\Colecao.cs" />
+    <Compile Include="LazyLoad\LazyObject.cs" />
+    <Compile Include="Mediator\Mediator.cs" />
+    <Compile Include="Mediator\Objeto.cs" />
+    <Compile Include="Mediator\Programa.cs" />
+    <Compile Include="Memento\Memento.cs" />
+    <Compile Include="Memento\Programa.cs" />
+    <Compile Include="ModelViewPresenter\IView.cs" />
+    <Compile Include="ModelViewPresenter\Model.cs" />
+    <Compile Include="ModelViewPresenter\Presenter.cs" />
+    <Compile Include="ModelViewPresenter\View.cs" />
+    <Compile Include="Observer\Dados.cs" />
+    <Compile Include="Observer\Observador.cs" />
+    <Compile Include="Observer\Programa.cs" />
+    <Compile Include="Observer\Valores.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Prototype\Prototipo.cs" />
+    <Compile Include="Singleton\Singleton.cs" />
+    <Compile Include="State\DeletadoComportamento.cs" />
+    <Compile Include="State\Estado.cs" />
+    <Compile Include="State\IComportamento.cs" />
+    <Compile Include="State\NovoComportamento.cs" />
+    <Compile Include="State\Objeto.cs" />
+    <Compile Include="State\OkComportamento.cs" />
+    <Compile Include="Strategy\Dados.cs" />
+    <Compile Include="Strategy\EstrategiaB .cs" />
+    <Compile Include="Strategy\EstrategiaA.cs" />
+    <Compile Include="Strategy\IEstrategia.cs" />
+    <Compile Include="Strategy\Objeto.cs" />
+    <Compile Include="Strategy\Programa.cs" />
+    <Compile Include="TemplateMethod\Template.cs" />
+    <Compile Include="Visitor\TipoA.cs" />
+    <Compile Include="Visitor\TipoB.cs" />
+    <Compile Include="Visitor\TipoC.cs" />
+    <Compile Include="Visitor\Visitor.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Adapter\info.txt" />
+    <Content Include="Bridge\info.txt" />
+    <Content Include="Builder\info.txt" />
+    <Content Include="ChainOfResponsability\info.txt" />
+    <Content Include="Command\info.txt" />
+    <Content Include="Composite\info.txt" />
+    <Content Include="Decorator\info.txt" />
+    <Content Include="EventAggregator\info.txt" />
+    <Content Include="Facade\info.txt" />
+    <Content Include="Factory\info.txt" />
+    <Content Include="Flyweight\info.txt" />
+    <Content Include="Interpreter\info.txt" />
+    <Content Include="Iterator\info.txt" />
+    <Content Include="LazyLoad\info.txt" />
+    <Content Include="Mediator\info.txt" />
+    <Content Include="Memento\info.txt" />
+    <Content Include="ModelViewPresenter\info.txt" />
+    <Content Include="ModelViewViewModel\info.txt" />
+    <Content Include="NullObject\info.txt" />
+    <Content Include="Observer\info.txt" />
+    <Content Include="Prototype\info.txt" />
+    <Content Include="Proxy\info.txt" />
+    <Content Include="Repository\info.txt" />
+    <Content Include="Rules\info.txt" />
+    <Content Include="ServiceLocator\info.txt" />
+    <Content Include="Singleton\info.txt" />
+    <Content Include="Specification\info.txt" />
+    <Content Include="State\info.txt" />
+    <Content Include="Strategy\info.txt" />
+    <Content Include="TemplateMethod\info.txt" />
+    <Content Include="UnitOfWork\info.txt" />
+    <Content Include="Visitor\info.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

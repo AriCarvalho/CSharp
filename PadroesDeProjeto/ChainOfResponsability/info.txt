@@ -1,0 +1,3 @@
+﻿Nome do padrão: Chain Of Responsability
+Problema: Uma requisição pode ser analisada por diversos processos e a ordenação dos processos pode possuir regras complexas.
+Solução: Deixar que cada processo analise a possibilidade de tratar a requisição ou passar para o proximo na cadeia de processos.

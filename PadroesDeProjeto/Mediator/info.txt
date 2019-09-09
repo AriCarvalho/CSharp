@@ -1,0 +1,3 @@
+﻿Nome do padrão: Mediator
+Problema: Diversos objetos do mesmo tipo precisam se comunicar.
+Solução: Cria-se um objeto mediador que é repassado para cada instância, assim quando querem se comunicar o mediador é acionado.

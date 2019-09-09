@@ -1,0 +1,3 @@
+﻿Nome do padrão: Null Object
+Problema: Existência de muitas verificações de nulidade no programa.
+Solução: Criação de objetos não funcionais apenas para impedir os erros de chamada a referências nulas.

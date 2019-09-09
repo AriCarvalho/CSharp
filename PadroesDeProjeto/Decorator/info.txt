@@ -1,0 +1,3 @@
+﻿Nome do padrão: Decorator Pattern
+Problema: Adicionar novo comportamento sem alterar as classes existentes.
+Solução: Criar uma classe decoradora que é composta pela classe antiga, mas implementa a mesma interface e adiciona as novas funcionalides.

@@ -1,0 +1,3 @@
+﻿Nome do padrão: Template method
+Problema: Definir a ordem dos processos sem detalhar cada passo.
+Solução: Criar uma classe abstrata e deixar os passos em abstrato. Cada subclasse deve implementar os passos em si.

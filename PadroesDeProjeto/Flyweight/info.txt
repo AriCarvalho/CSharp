@@ -1,0 +1,3 @@
+﻿Nome do padrão: Flyweight
+Problema: Os objetos utilizados no programa ocupam muito espaço na memória.
+Solução: Utilizar uma instancia para vários objetos semelhantes e descartar os dados mutáveis de cada um quando possível.

@@ -1,0 +1,7 @@
+F:\Local\CSharpWorkspace\PadroesDeProjeto\bin\Debug\PadroesDeProjeto.exe.config
+F:\Local\CSharpWorkspace\PadroesDeProjeto\bin\Debug\PadroesDeProjeto.exe
+F:\Local\CSharpWorkspace\PadroesDeProjeto\bin\Debug\PadroesDeProjeto.pdb
+F:\Local\CSharpWorkspace\PadroesDeProjeto\obj\Debug\PadroesDeProjeto.csproj.CoreCompileInputs.cache
+F:\Local\CSharpWorkspace\PadroesDeProjeto\obj\Debug\PadroesDeProjeto.exe
+F:\Local\CSharpWorkspace\PadroesDeProjeto\obj\Debug\PadroesDeProjeto.pdb
+F:\Local\CSharpWorkspace\PadroesDeProjeto\obj\Debug\PadroesDeProjeto.csprojAssemblyReference.cache

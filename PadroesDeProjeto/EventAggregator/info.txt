@@ -1,0 +1,3 @@
+﻿Nome do padrão: Event Aggregator Pattern
+Problema: Enviar eventos entre classes sem acoplá-las.
+Solução: Criar uma classe agregadora de eventos e utiliza-la para registrar os receptores, permitindo que os transmissores a informem dos eventos a serem disparados.

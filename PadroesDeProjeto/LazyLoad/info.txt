@@ -1,0 +1,3 @@
+﻿Nome do padrão: Lazy Load
+Problema: Um objeto possui diversas partes, mas nem todas são utilizadas ao mesmo tempo.
+Solução: Carregar somente as partes necessárias e quando necessárias.

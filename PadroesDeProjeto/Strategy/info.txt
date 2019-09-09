@@ -1,0 +1,3 @@
+﻿Nome do padrão: Strategy
+Problema: Definir o comportamento do objeto durante a construção.
+Solução: Receber a estratégia de comportamento ao construir o objeto, passando um objeto que define este comportamento.

@@ -1,0 +1,3 @@
+﻿Nome do padrão: Factory
+Problema: Escolher entre diferentes tipos de objetos para criar sem alterar o programa.
+Solução: Separar a decisão sobre o tipo de objeto que sera criado do momento de criação e colocar a escolha do tipo em alguma configuração.
